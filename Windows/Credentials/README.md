@@ -1,0 +1,2 @@
+cmdkey /list
+vaultcmd /list

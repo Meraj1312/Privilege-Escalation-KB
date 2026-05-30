@@ -1,0 +1,2 @@
+net share
+Get-SmbShare
