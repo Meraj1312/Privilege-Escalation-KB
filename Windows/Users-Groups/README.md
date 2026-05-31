@@ -1,8 +1,8 @@
-`whoami /all`
+```whoami /all```
   
-net user
+```net user```
   
-net localgroup
+```net localgroup```
   
-net localgroup administrators
+```net localgroup administrators```
   
