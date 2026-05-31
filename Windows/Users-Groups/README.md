@@ -1,4 +1,4 @@
-``whoami /all``
+`whoami /all`
   
 net user
   
